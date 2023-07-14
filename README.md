@@ -1,4 +1,4 @@
-# facial-emotion-detection
+# Facial-Emotion-Detection
 
 ## Project Summary
 Facial emotion recognition model developed using Convolutional Neural Networks (CNN) for seven distinct emotions: <br>
