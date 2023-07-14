@@ -1,5 +1,9 @@
 # facial-emotion-detection
 
+## Project Summary
+Facial emotion recognition model developed using Convolutional Neural Networks (CNN) for seven distinct emotions: <br>
+Anger, Contempt, Disgust, Fear, Happiness, Sadness, and Surprise
+
 ## Installation
 
 1. Clone the repo 
